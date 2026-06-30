@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1025-divisor-game](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [3894-traffic-signal-color](https://github.com/yuvi194/LeetCode_Solutions/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2810-faulty-keyboard) |
 | [3894-traffic-signal-color](https://github.com/yuvi194/LeetCode_Solutions/tree/master/3894-traffic-signal-color) |
