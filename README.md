@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0686-repeated-string-match](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0709-to-lower-case) |
 | [0859-buddy-strings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0859-buddy-strings) |
 | [1002-find-common-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1002-find-common-characters) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
