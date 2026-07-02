@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0657-robot-return-to-origin](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0709-to-lower-case) |
 | [0859-buddy-strings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0859-buddy-strings) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2810-faulty-keyboard) |
