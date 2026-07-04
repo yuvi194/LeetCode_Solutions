@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2351-first-letter-to-appear-twice](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
+| [2351-first-letter-to-appear-twice](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2351-first-letter-to-appear-twice](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2351-first-letter-to-appear-twice](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## String Matching
 |  |
 | ------- |
