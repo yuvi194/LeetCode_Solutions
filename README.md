@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [3894-traffic-signal-color](https://github.com/yuvi194/LeetCode_Solutions/tree/master/3894-traffic-signal-color) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
