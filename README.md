@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [1025-divisor-game](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1025-divisor-game) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0278-first-bad-version) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
