@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
 | [1002-find-common-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1002-find-common-characters) |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
