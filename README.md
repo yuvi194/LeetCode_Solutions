@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
 | [1002-find-common-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
