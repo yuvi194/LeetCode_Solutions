@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
