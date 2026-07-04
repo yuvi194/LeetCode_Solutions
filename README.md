@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2460-apply-operations-to-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Binary Search
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## String
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2810-faulty-keyboard) |
