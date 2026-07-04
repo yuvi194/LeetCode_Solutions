@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
