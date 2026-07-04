@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## String
 |  |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
