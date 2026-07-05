@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0456-132-pattern) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0456-132-pattern) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0456-132-pattern) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0456-132-pattern) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
@@ -267,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0139-word-break) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
