@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1002-find-common-characters) |
+| [1288-remove-covered-intervals](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
