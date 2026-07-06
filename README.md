@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [1002-find-common-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1002-find-common-characters) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0456-132-pattern) |
+| [0856-score-of-parentheses](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
