@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1025-divisor-game](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1025-divisor-game) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2396-strictly-palindromic-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [3894-traffic-signal-color](https://github.com/yuvi194/LeetCode_Solutions/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [1002-find-common-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1002-find-common-characters) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Counting
 |  |
