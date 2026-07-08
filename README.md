@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
+| [0853-car-fleet](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0912-sort-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0912-sort-an-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0853-car-fleet](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0853-car-fleet](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0853-car-fleet](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0853-car-fleet) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
