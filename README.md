@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Stack
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Greedy
@@ -371,4 +373,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
