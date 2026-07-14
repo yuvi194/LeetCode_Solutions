@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2390-removing-stars-from-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2810-faulty-keyboard) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Greedy
