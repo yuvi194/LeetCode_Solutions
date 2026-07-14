@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [1002-find-common-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1002-find-common-characters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0880-decoded-string-at-index) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
