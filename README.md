@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -438,8 +439,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0706-design-hashmap) |
+| [0933-number-of-recent-calls](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0706-design-hashmap) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
