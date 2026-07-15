@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [0706-design-hashmap](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0706-design-hashmap) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
 | [0853-car-fleet](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0853-car-fleet) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0706-design-hashmap](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0706-design-hashmap) |
 | [0859-buddy-strings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0859-buddy-strings) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1002-find-common-characters) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0706-design-hashmap) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -431,4 +434,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
