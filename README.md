@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2396-strictly-palindromic-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvi194/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/yuvi194/LeetCode_Solutions/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvi194/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2733-neither-minimum-nor-maximum](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvi194/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2810-faulty-keyboard) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvi194/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/yuvi194/LeetCode_Solutions/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvi194/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -465,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvi194/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
