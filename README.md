@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
@@ -478,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yuvi194/LeetCode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
