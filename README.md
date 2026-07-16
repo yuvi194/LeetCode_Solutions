@@ -436,18 +436,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Prefix Sum
 |  |
