@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
+| [1054-distant-barcodes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1288-remove-covered-intervals](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0859-buddy-strings) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1002-find-common-characters) |
+| [1054-distant-barcodes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1054-distant-barcodes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [1288-remove-covered-intervals](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1054-distant-barcodes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Counting
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0767-reorganize-string) |
+| [1054-distant-barcodes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -348,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
+| [1054-distant-barcodes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Sliding Window
 |  |
