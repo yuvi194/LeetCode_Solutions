@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1002-find-common-characters) |
 | [1046-last-stone-weight](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
+| [1094-car-pooling](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1094-car-pooling) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1288-remove-covered-intervals](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1054-distant-barcodes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
+| [1094-car-pooling](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0946-validate-stack-sequences) |
+| [1094-car-pooling](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1094-car-pooling) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2390-removing-stars-from-a-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
+| [1094-car-pooling](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1094-car-pooling) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Sliding Window
 |  |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1094-car-pooling](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1094-car-pooling) |
 ## Design
 |  |
 | ------- |
