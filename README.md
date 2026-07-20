@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1094-car-pooling) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1268-search-suggestions-system](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0456-132-pattern) |
 | [0658-find-k-closest-elements](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [1268-search-suggestions-system](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1054-distant-barcodes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1094-car-pooling) |
+| [1268-search-suggestions-system](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1268-search-suggestions-system](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1094-car-pooling) |
+| [1268-search-suggestions-system](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Sliding Window
 |  |
@@ -401,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0139-word-break) |
+| [1268-search-suggestions-system](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 ## Memoization
 |  |
 | ------- |
