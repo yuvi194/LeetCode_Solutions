@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0494-target-sum](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1025-divisor-game) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0456-132-pattern) |
+| [0494-target-sum](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0077-combinations) |
+| [0494-target-sum](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
