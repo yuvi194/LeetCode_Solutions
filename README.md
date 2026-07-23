@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0494-target-sum](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0526-beautiful-arrangement](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0526-beautiful-arrangement) |
 | [0678-valid-parenthesis-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1025-divisor-game) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0526-beautiful-arrangement](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0526-beautiful-arrangement](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0526-beautiful-arrangement) |
 | [0832-flipping-an-image](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0832-flipping-an-image) |
 | [2351-first-letter-to-appear-twice](https://github.com/yuvi194/LeetCode_Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0526-beautiful-arrangement) |
 | [1980-find-unique-binary-string](https://github.com/yuvi194/LeetCode_Solutions/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
@@ -518,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0050-powx-n) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
