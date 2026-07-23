@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0537-complex-number-multiplication](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0537-complex-number-multiplication) |
@@ -504,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/yuvi194/LeetCode_Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
